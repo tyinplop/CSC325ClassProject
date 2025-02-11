@@ -1,7 +1,7 @@
 # Developer Persona
 
 ## Name
-Jordan Lee
+Gremblo
 
 ## Role
 Software Developer
@@ -23,4 +23,4 @@ Software Developer
 - **Tooling & Environment**: Needs reliable dev environments and CI/CD pipelines to streamline processes.
 
 ## Scenario
-Jordan starts the day by reviewing the latest pull requests and bug reports. They open the project in their IDE, ensuring that all dependencies are up-to-date. After merging changes, Jordan runs automated tests and checks the staging environment for any regressions. Collaboration is key—Jordan regularly communicates with the End Users to gather feedback and with the Owner to align on product direction. When something breaks, Jordan investigates logs, fixes the issue, and documents the solution for the team to avoid future confusion.
+Gremblo starts the day by reviewing the latest pull requests and bug reports. They open the project in their IDE, ensuring that all dependencies are up-to-date. After merging changes, Gremblo runs automated tests and checks the staging environment for any regressions. Collaboration is key—Gremblo regularly communicates with the End Users to gather feedback and with the Owner to align on product direction. When something breaks, Jordan investigates logs, fixes the issue, and documents the solution for the team to avoid future confusion.
