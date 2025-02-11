@@ -1,7 +1,7 @@
 # Owner Persona
 
 ## Name
-Morgan Davis
+Mrs. Dollar
 
 ## Role
 Product Owner & Software Rights Holder
@@ -23,4 +23,4 @@ Product Owner & Software Rights Holder
 - **Market Competition**: Faces pressure to release new features quickly without compromising quality.
 
 ## Scenario
-Morgan reviews product roadmaps and market research reports to identify competitive edges. She convenes with developers like Jordan to discuss timelines, feasibility, and budget. She also checks user feedback metrics from personas like Alex to ensure the product remains user-focused. When a major release is on the horizon, Morgan coordinates marketing efforts and investor presentations, emphasizing the software’s unique value proposition. A sudden shift in the market—such as a new competitor—can lead Morgan to re-strategize development priorities and product positioning.
+Mrs. Dollar reviews product roadmaps and market research reports to identify competitive edges. She convenes with developers like Gremblo to discuss timelines, feasibility, and budget. She also checks user feedback metrics from personas like Cheez Boy to ensure the product remains user-focused. When a major release is on the horizon, Mrs. Dollar coordinates marketing efforts and investor presentations, emphasizing the software’s unique value proposition. A sudden shift in the market—such as a new competitor—can lead Mrs. Dollar to re-strategize development priorities and product positioning.
