@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: ./website  # 👈 Make all commands run in /website
+        working-directory: ./website  # Applies to all `run:` steps
 
     steps:
       - uses: actions/checkout@v4
@@ -23,4 +23,3 @@ jobs:
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_CSC325CLASSPROJECT_5B077 }}
           channelId: live
           projectId: csc325classproject-5b077
-        working-directory: ./website  # 👈 Required to find `out/` in the right place
