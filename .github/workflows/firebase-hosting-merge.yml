@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: ./website  # Applies to all `run:` steps
+        working-directory: ./website
 
     steps:
       - uses: actions/checkout@v4
@@ -23,3 +23,4 @@ jobs:
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_CSC325CLASSPROJECT_5B077 }}
           channelId: live
           projectId: csc325classproject-5b077
+          entryPoint: ./website  # 👈 Tells it where firebase.json is
